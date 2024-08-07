@@ -6,12 +6,12 @@ All the matter provided here is the learning of my Web Development journey
 
 ## Table of Contents
 
-1. [Coming soon...](#installation)
-2. [Coming soon..](#usage)
-3. [Coming soon..](#features)
-4. [Coming soon..](#contributing)
-5. [Coming soon..](#license)
-6. [Coming soon..](#contact)
+1. [#installation](#installation)
+2. [#usage](#usage)
+3. [#features](#features)
+4. [#contributing](#contributing)
+5. [#license](#license)
+6. [#contact](#contact)
 
 ## Installation
 
